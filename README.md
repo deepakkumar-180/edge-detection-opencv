@@ -114,7 +114,8 @@ plt.show()
 ```
 ## Output
 
-![Uploading image.png…]()
+<img width="1266" height="761" alt="image" src="https://github.com/user-attachments/assets/55383f6e-ef6a-4a7a-afb6-ca6fa81e998d" />
+
 
 ###  Sobel Edge Detector
 - Detects edges in horizontal and vertical directions  
