@@ -1,4 +1,4 @@
-# EXP-6 edge-detection-opencv
+# EXP-6 Edge-Detection-Opencv
 
 ## Aim
 
